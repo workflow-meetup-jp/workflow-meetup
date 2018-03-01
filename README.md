@@ -1,5 +1,16 @@
 # workflow-meetup
-About Workflow related meetup
+
+趣旨：ワークフローシステム、再現性、自動化、及びそれに関連する様々な事柄について、知見を交換したり、技術を高めるための研究会です
+
+関連するキーワード：
+* ワークフローシステム
+* 再現性
+* 自動化
+* クラウド
+* HPC
+* Authentication, Authorization, Accounting
+* 標準化、共通化、ライブラリ
+* ログ収集
 
 
 # 次のミートアップ予定
