@@ -8,9 +8,12 @@
 * 自動化
 * クラウド
 * HPC
+* ストレージ
+* バックアップ
 * Authentication, Authorization, Accounting
 * 標準化、共通化、ライブラリ
 * ログ収集
+* etc
 
 
 # 次のミートアップ予定
