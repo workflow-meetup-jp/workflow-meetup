@@ -15,6 +15,10 @@
 * ログ収集
 * etc
 
+# Slack
+
+[Slackをつかっています。招待コードの発行はこちらからできます。](https://obf-jp-slackin.herokuapp.com/)
+
 
 # 次のミートアップ予定
 
