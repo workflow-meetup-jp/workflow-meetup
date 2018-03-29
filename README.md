@@ -18,7 +18,7 @@
 
 # 次のミートアップ予定
 
-* [第2回2018年2月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180329)
+* [第2回2018年3月29日](https://github.com/manabuishii/workflow-meetup/wiki/20180329)
 
 # これまでのミートアップ
 
