@@ -28,7 +28,8 @@
 
 # Slack
 
-[Slackをつかっています。招待コードの発行はこちらからできます。](https://obf-jp-slackin.herokuapp.com/)
+* [Slack](https://obf-jp.slack.com/)
+* [招待コードの発行はこちらからできます。](https://obf-jp-slackin.herokuapp.com/)
 
 # Workflow Meetup カレンダー
 
