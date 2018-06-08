@@ -4,7 +4,11 @@
 
 ## 次のミートアップ予定
 
-* [第4回2018年5月30日](https://github.com/manabuishii/workflow-meetup/wiki/20180530)
+* [第5回2018年6月14日-15日](https://github.com/manabuishii/workflow-meetup/wiki/20180614-15)
+
+## 次の次のミートアップ予定
+
+* [第6回2018年8月13日-17日](https://github.com/manabuishii/workflow-meetup/wiki/20180813-17)
 
 
 関連するキーワード：
@@ -38,6 +42,7 @@
 
 # これまでのミートアップ
 
+* [第4回2018年5月30日](https://github.com/manabuishii/workflow-meetup/wiki/20180530)
 * [第3回2018年4月18日](https://github.com/manabuishii/workflow-meetup/wiki/20180418)
 * [第2回2018年3月29日](https://github.com/manabuishii/workflow-meetup/wiki/20180329)
 * [第1回2018年2月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180226)
