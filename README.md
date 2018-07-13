@@ -39,6 +39,11 @@
 * [公開カレンダー](https://calendar.google.com/calendar/embed?src=tif6pkpstad18bbhqvua7e7lac%40group.calendar.google.com&ctz=Asia%2FTokyo)
 * [iCal 形式](https://calendar.google.com/calendar/ical/tif6pkpstad18bbhqvua7e7lac%40group.calendar.google.com/public/basic.ics)
 
+# CWL (Common Workflow Language) の紹介動画
+
+日本語字幕もあります。
+["Common Workflow Language" explained in 64 seconds \- YouTube](https://www.youtube.com/watch?v=86eY8xs-Vo8&t=5s)
+
 # これまでのミートアップ
 
 * [第5回2018年6月14日-15日](https://github.com/manabuishii/workflow-meetup/wiki/20180614-15)
