@@ -3,14 +3,14 @@
 趣旨：ワークフローシステム、再現性、自動化、及びそれに関連する様々な事柄について、知見を交換したり、技術を高めるための研究会です
 
 ## 次のミートアップ予定
-* [第6回2018年7月13日](https://github.com/manabuishii/workflow-meetup/wiki/20180713)
-
-## 次の次のミートアップ予定
-
-* [第7回2018年8月13日-17日](https://github.com/manabuishii/workflow-meetup/wiki/20180813-17)
 
 
-関連するキーワード：
+- [第7回2018年8月13日-17日](https://github.com/manabuishii/workflow-meetup/wiki/20180813-17)
+  - 月曜から金曜まで、毎日１０時から、まとめ込みで１９時までの予定です。
+  - ただし、最終日会場確保の都合で、日本橋AIPでは１４時半までとなっております。１４時半移行はどこかで、まとめや情報交換などを行う予定
+
+
+## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
 * 再現性
 * 自動化
@@ -46,6 +46,7 @@
 
 # これまでのミートアップ
 
+* [第6回2018年7月13日](https://github.com/manabuishii/workflow-meetup/wiki/20180713)
 * [第5回2018年6月14日-15日](https://github.com/manabuishii/workflow-meetup/wiki/20180614-15)
 * [第4回2018年5月30日](https://github.com/manabuishii/workflow-meetup/wiki/20180530)
 * [第3回2018年4月18日](https://github.com/manabuishii/workflow-meetup/wiki/20180418)
