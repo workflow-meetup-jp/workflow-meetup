@@ -5,9 +5,11 @@
 ## 次のミートアップ予定
 
 
-- [第8回2018年9月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180926)
-  - 完全オンラインでのミートアップ開催予定。
-  - 初のこころみですので、どの程度うまくいくかわかりませんが、まずは、Slackにご参加ください。
+- [第9回2018年10月15日](https://github.com/manabuishii/workflow-meetup/wiki/20181015)
+  - 大阪、東京同時開催
+  - Zoom などで拠点を繋ぐ予定なので、オンライン参加も可能です。オンライン参加の場合は、Slackにまず参加していただければとおもいます。
+  
+
 
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
@@ -45,6 +47,7 @@
 
 # これまでのミートアップ
 
+* [第8回2018年9月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180926)
 * [第7回2018年8月13日-17日](https://github.com/manabuishii/workflow-meetup/wiki/20180813-17)
 * [第6回2018年7月13日](https://github.com/manabuishii/workflow-meetup/wiki/20180713)
 * [第5回2018年6月14日-15日](https://github.com/manabuishii/workflow-meetup/wiki/20180614-15)
