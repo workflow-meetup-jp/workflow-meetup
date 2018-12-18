@@ -5,9 +5,9 @@
 ## 次のミートアップ予定
 
 
-- [10th Workflow meetup 2018-11-26(Mon)](https://github.com/manabuishii/workflow-meetup/wiki/20181126)
-  - 大阪、東京同時開催
-  - Zoom などで拠点を繋ぐ予定なので、オンライン参加も可能です。オンライン参加の場合は、Slackにまず参加していただければとおもいます。
+- [11th Workflow meetup 2018-12-27(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20181227)
+  - 国立情報学研究所(NII)、東京、神保町
+  - 今までと違い、今回はNIIです。
   
 
 
@@ -47,6 +47,7 @@
 
 # これまでのミートアップ
 
+* [10th Workflow meetup 2018-11-26(Mon)](https://github.com/manabuishii/workflow-meetup/wiki/20181126)
 * [第9回2018年10月15日](https://github.com/manabuishii/workflow-meetup/wiki/20181015)
 * [第8回2018年9月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180926)
 * [第7回2018年8月13日-17日](https://github.com/manabuishii/workflow-meetup/wiki/20180813-17)
