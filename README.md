@@ -5,11 +5,11 @@
 ## 次のミートアップ予定
 
 
-- [11th Workflow meetup 2018-12-27(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20181227)
-  - 国立情報学研究所(NII)、東京、神保町
-  - 今までと違い、今回はNIIです。
+- [13th Workflow meetup 2019-02-22(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20190222)
   
+### 次次回予定
 
+- 2019-03-27（Wed)
 
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
@@ -47,6 +47,8 @@
 
 # これまでのミートアップ
 
+* [12th Workflow meetup 2019-01-31(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20190131)
+* [11th Workflow meetup 2018-12-27(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20181227)
 * [10th Workflow meetup 2018-11-26(Mon)](https://github.com/manabuishii/workflow-meetup/wiki/20181126)
 * [第9回2018年10月15日](https://github.com/manabuishii/workflow-meetup/wiki/20181015)
 * [第8回2018年9月26日](https://github.com/manabuishii/workflow-meetup/wiki/20180926)
