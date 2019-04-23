@@ -2,7 +2,7 @@
 
 趣旨：ワークフローシステム、再現性、自動化、及びそれに関連する様々な事柄について、知見を交換したり、技術を高めるための研究会です
 
-[Workflow Meeup概要 · manabuishii/workflow\-meetup Wiki](https://github.com/manabuishii/workflow-meetup/wiki/Workflow-Meeup%E6%A6%82%E8%A6%81)
+[Workflow Meeup概要](https://github.com/manabuishii/workflow-meetup/wiki/Workflow-Meeup%E6%A6%82%E8%A6%81)
 
 ## 次のミートアップ予定
 
