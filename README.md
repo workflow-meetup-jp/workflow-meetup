@@ -6,8 +6,7 @@
 
 ## 次のミートアップ予定
 
-
-- [18th Workflow meetup 2019-07-26(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20190726)
+- [18th Workflow meetup 2019-08-13(Tue) to 2019-08-16(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20190813-16)
   
 
 ## 関連するキーワード：
@@ -46,6 +45,7 @@
 
 # これまでのミートアップ
 
+- [18th Workflow meetup 2019-07-26(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20190726)
 - [17th Workflow meetup 2019-06-28(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20190628)
 - [16th Workflow meetup 2019-05-30(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20190530)
 - [15th Workflow meetup 2019-04-24(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20190424)
