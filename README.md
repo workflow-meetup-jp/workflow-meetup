@@ -49,7 +49,10 @@
 
 # これまでのミートアップ
 
-
+- [30th Workflow meetup 2020-07-01(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20200701)
+- [29th Workflow meetup 2020-06-01(Mon)](https://github.com/manabuishii/workflow-meetup/wiki/20200601)
+- [28th Workflow meetup 2020-05-01(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20200501)
+- [27th Workflow meetup 2020-04-16(Thu)](https://github.com/manabuishii/workflow-meetup/wiki/20200416)
 - [26th Workflow meetup 2020-03-04(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200304)
 - [25th Workflow meetup 2020-02-12(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200212)
 - [24th Workflow meetup 2020-01-31(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20200131)
