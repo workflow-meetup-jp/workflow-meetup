@@ -6,15 +6,12 @@
 
 ## 次のミートアップ予定
 
-- [24th Workflow meetup 2020-01-31(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20200131)
-  - いつもと違い、東京会場は NII です。
+- [31th Workflow meetup 2020-08-03(Mon)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20200803)
 
 
 ## 次回以降のミートアップ予定
 
-- [25th Workflow meetup 2020-02-12(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200212)
-- [25th Workflow meetup 2020-03-04(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200304)
-  
+- 32th 2020-09-??
 
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
@@ -52,6 +49,10 @@
 
 # これまでのミートアップ
 
+
+- [26th Workflow meetup 2020-03-04(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200304)
+- [25th Workflow meetup 2020-02-12(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20200212)
+- [24th Workflow meetup 2020-01-31(Fri)](https://github.com/manabuishii/workflow-meetup/wiki/20200131)
 - [23th Workflow meetup 2019-12-16(Mon)](https://github.com/manabuishii/workflow-meetup/wiki/20191216)
 - [22th Workflow meetup 2019-11-27(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20191127)
 - [21th Workflow meetup 2019-10-30(Wed)](https://github.com/manabuishii/workflow-meetup/wiki/20191030)
