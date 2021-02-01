@@ -6,12 +6,12 @@
 
 ## 次のミートアップ予定
 
-- [37th Workflow meetup 2021-02-01(Mon)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210201)
+- [38th Workflow meetup 2021-03-01(Mon)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210301)
 
 
 ## 次回以降のミートアップ予定
 
-- 38th 2021-03-??
+- 39th 2021-03-01
 
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
@@ -49,6 +49,7 @@
 
 # これまでのミートアップ
 
+- [37th Workflow meetup 2021-02-01(Mon)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210201)
 - [36th Workflow meetup 2021-01-18(Mon)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210118)
 - [35th Workflow meetup 2020-12-04(Fri)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20201204)
 - [34th Workflow meetup 2020-11-06(Fri)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20201106)
