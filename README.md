@@ -6,7 +6,7 @@
 
 ## 次のミートアップ予定
 
-- [46th Workflow meetup 2021-10-06(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20211110)
+- [46th Workflow meetup 2021-11-10(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20211110)
 
 
 ## 次回以降のミートアップ予定
