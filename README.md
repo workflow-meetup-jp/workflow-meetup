@@ -6,11 +6,10 @@
 
 ## 次のミートアップ予定
 
-- [50th Workflow meetup 2022-03-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220302)
+- [51th Workflow meetup 2022-04-06(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220406)
 
 ## 次回以降のミートアップ予定
 
-- 51th 2022-04-06 (Wed)
 - 52th 2022-05-11 (Wed) ?
 
 ## 関連するキーワード：
@@ -49,6 +48,7 @@
 
 # これまでのミートアップ
 
+- [50th Workflow meetup 2022-03-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220302)
 - [49th Workflow meetup 2022-02-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220202)
 - [48th Workflow meetup 2022-01-12(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220112)
 - [47th Workflow meetup 2021-12-01(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20211201)
