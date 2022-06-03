@@ -6,7 +6,7 @@
 
 ## 次のミートアップ予定
 
-- [53th Workflow meetup 2022-06-01(Wed), 02(Thu)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220601-02)
+- [54th Workflow meetup 2022-07-06(Wed), 07(Thu)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220706-07)
 
 ## 次回以降のミートアップ予定
 
@@ -47,6 +47,8 @@
 ["Common Workflow Language" explained in 64 seconds \- YouTube](https://www.youtube.com/watch?v=86eY8xs-Vo8&t=5s)
 
 # これまでのミートアップ
+
+- [53th Workflow meetup 2022-06-01(Wed), 02(Thu)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220601-02)
 
 - [50th Workflow meetup 2022-03-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220302)
 - [49th Workflow meetup 2022-02-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220202)
