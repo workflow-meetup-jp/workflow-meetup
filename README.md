@@ -49,8 +49,8 @@
 
 # これまでのミートアップ
 
-- [67th Workflow meetup 2023-07-05(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230802) with pitagora
-- [66th Workflow meetup 2023-07-05(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230705)
+- [67th Workflow meetup 2023-07-05(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230802)
+- [66th Workflow meetup 2023-07-05(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230705) with pitagora
 
 - [65th Workflow meetup 2023-06-07(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230607)
 - [64th Workflow meetup 2023-05-10(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20230510)
