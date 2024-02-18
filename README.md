@@ -6,12 +6,14 @@
 
 ## 次のミートアップ予定
 
-- [73th Workflow meetup 2024-02-07(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240207)
+- [74th Workflow meetup 2024-03-06(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240306)
 
 ## 次回以降のミートアップ予定
 
-- 74th 2024-03-06 (Wed)
+４月はまだ未定ですが、おそらく11日？
 
+- 75th　2024-04-04 (Thu) ? 2024-04-11(Thu)?
+ 
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
 * 再現性
@@ -48,6 +50,7 @@
 
 # これまでのミートアップ
 
+- [73th Workflow meetup 2024-02-07(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240207)
 - [72th Workflow meetup 2024-01-10(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240110)
 - [71th Workflow meetup 2023-12-06(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20231206)
 - [70th Workflow meetup 2023-11-08(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20231108)
