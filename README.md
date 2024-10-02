@@ -6,13 +6,10 @@
 
 ## 次のミートアップ予定
 
-- [81th Workflow meetup 2024-10-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241002)
+- [82th Workflow meetup 2024-10-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241113)
 
 ## 次回以降のミートアップ予定
 
-４月はまだ未定ですが、おそらく11日？
-
-- 82th 2024-11-13 (Wed)
 - 83th 2024-12-04 (Wed)
  
 ## 関連するキーワード：
