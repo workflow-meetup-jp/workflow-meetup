@@ -6,11 +6,11 @@
 
 ## 次のミートアップ予定
 
-- [82th Workflow meetup 2024-11-13(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241113)
+- [83th Workflow meetup 2024-11-13(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241113)
 
 ## 次回以降のミートアップ予定
 
-- 83th 2024-12-04 (Wed)
+- 84th 2025-01-15 (Wed)
  
 ## 関連するキーワード：
 * ワークフローシステム(ワークフロー言語、ワークフロー実行エンジン、など)
