@@ -48,7 +48,7 @@
 
 # これまでのミートアップ
 
-- [82th Workflow meetup 2024-10-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241113)
+- [82th Workflow meetup 2024-11-13(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241113)
 - [81th Workflow meetup 2024-10-02(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20241002)
 - [80th Workflow meetup 2024-09-04(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240904)
 - [79th Workflow meetup 2024-08-07(Wed)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240807)
